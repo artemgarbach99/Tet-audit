@@ -1031,9 +1031,6 @@ textarea.input {
     width: 100%;
   }
 }
-.img-experience__image-ibg img {
-  max-width: 100%;
-}
 .img-experience__block {
   position: absolute;
   top: 20%;
@@ -1072,8 +1069,8 @@ textarea.input {
 }
 @media (max-width: 47.99875em) {
   .img-experience__title {
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 30px;
+    line-height: 30px;
   }
 }
 .img-experience__text {
@@ -1088,7 +1085,7 @@ textarea.input {
 }
 @media (max-width: 47.99875em) {
   .service {
-    padding: 5rem 0px 0px 0px;
+    padding: 2.5rem 0px 0px 0px;
   }
 }
 .service__header {
